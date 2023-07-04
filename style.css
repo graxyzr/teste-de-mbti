@@ -1,0 +1,30 @@
+@import url('https://fonts.cdnfonts.com/css/bank-gothic');
+@import url('https://fonts.cdnfonts.com/css/copperplate');
+@import url('https://fonts.cdnfonts.com/css/pixolletta8px');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(29, 136, 207);
+    text-align: start;
+    color: #fff;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: 55%;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    border-radius: 8%;
+    font-size: small;
+    background-size: 8%;
+    border: dashed;
+    border-color: #589fe2;
+}
+
+h2 {
+    font-family: 'Pixolletta8px', sans-serif;
+}

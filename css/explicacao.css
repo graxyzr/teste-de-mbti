@@ -1,0 +1,64 @@
+ @import url('https://fonts.cdnfonts.com/css/bank-gothic');
+ @import url('https://fonts.cdnfonts.com/css/copperplate');
+ @import url('https://fonts.cdnfonts.com/css/edit-undo-brk');
+ @import url('https://fonts.cdnfonts.com/css/pilot-command');
+ @import url('https://fonts.cdnfonts.com/css/pixolletta8px');
+
+ body {
+     background: rgb(29, 136, 207);
+ }
+
+ h1 {
+     font-family: 'Edit Undo BRK', sans-serif;
+     text-align: center;
+     font-size: 150px;
+     background-color: rgba(0, 0, 0, 0.5);
+     color: #fff;
+     border-radius: 150px;
+     border: dashed;
+ }
+
+ .analistas img {
+     width: 300px;
+     display: inline-block;
+
+ }
+
+ .diplomatas img {
+     width: 300px;
+     display: inline-block;
+
+ }
+
+ .sentinelas img {
+     width: 300px;
+     display: inline-block;
+ }
+
+ .exploradores img {
+     width: 300px;
+     display: inline-block;
+ }
+
+ h2 {
+     text-align: center;
+     font-size: 50px;
+     font-family: 'Pilot Command Expanded', sans-serif;
+     color: #fff;
+     background-color: rgba(0, 0, 0, 0.5);
+     border: groove;
+     border-radius: 10px;
+ }
+
+ h3 {
+     text-align: center;
+     font-family: 'Pixolletta8px', sans-serif;
+     color: #fff;
+ }
+
+ #mbti {
+     justify-content: center;
+     display: flex;
+     margin-left: auto;
+     margin-right: auto;
+ }
